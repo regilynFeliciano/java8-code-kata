@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae44a47b-3532-4151-8fc2-d631e463bd5c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise1Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/collection-interfaces/target/" />
@@ -26,26 +26,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="11" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="11" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="105" />
-          <entry key="txt" value="128" />
+          <entry key="java" value="271" />
+          <entry key="txt" value="170" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="105" />
-          <entry key="PLAIN_TEXT" value="128" />
+          <entry key="JAVA" value="271" />
+          <entry key="PLAIN_TEXT" value="170" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -57,18 +57,9 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise1Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
+            <state relative-caret-position="-136">
               <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -77,11 +68,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise1Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2142">
+              <caret line="138" column="36" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise2Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1275">
-              <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
             </state>
           </provider>
         </entry>
@@ -99,7 +99,7 @@
         <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise3Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="799">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
             </state>
           </provider>
         </entry>
@@ -108,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise4Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="952">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
         </entry>
@@ -117,7 +117,7 @@
         <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise5Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1343">
-              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+              <caret line="93" selection-start-line="93" selection-end-line="93" />
             </state>
           </provider>
         </entry>
@@ -126,7 +126,7 @@
         <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise6Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -135,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise7Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="578">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -171,6 +171,7 @@
         <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise7Test.java" />
         <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java" />
         <option value="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java" />
+        <option value="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise1Test.java" />
       </list>
     </option>
   </component>
@@ -209,32 +210,37 @@
             <path>
               <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
               <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
-              <item name="collection-interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="date-and-time-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
+              <item name="date-and-time-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
               <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
-              <item name="collection-interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
-              <item name="collection-interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="date-and-time-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
               <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
-              <item name="collection-interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="date-and-time-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java8-code-kata" type="462c0819:PsiDirectoryNode" />
+              <item name="date-and-time-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java8-code-kata" type="b2602c69:ProjectViewProjectNode" />
@@ -281,7 +287,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537830784523" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537831338559" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -297,7 +303,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Exercise1Test.iterateByForEach">
+  <component name="RunManager" selected="JUnit.Exercise1Test">
+    <configuration name="Exercise1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="date-and-time-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="date.and.time.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="date.and.time.api" />
+      <option name="MAIN_CLASS_NAME" value="date.and.time.api.Exercise1Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercise1Test.iterateByForEach" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="collection-interfaces" />
       <extension name="coverage">
@@ -314,30 +334,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise5Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="stream-api" />
+    <configuration name="Exercise1Test.localDateWith" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="date-and-time-api" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.api.*" />
+          <option name="PATTERN" value="date.and.time.api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="stream.api" />
-      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise5Test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise6Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="stream-api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stream.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="stream.api" />
-      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise6Test" />
+      <option name="PACKAGE_NAME" value="date.and.time.api" />
+      <option name="MAIN_CLASS_NAME" value="date.and.time.api.Exercise1Test" />
+      <option name="METHOD_NAME" value="localDateWith" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -371,19 +379,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Exercise5Test" />
-      <item itemvalue="JUnit.Exercise6Test" />
       <item itemvalue="JUnit.Exercise7Test" />
       <item itemvalue="JUnit.Exercise8Test" />
       <item itemvalue="JUnit.Exercise1Test.iterateByForEach" />
+      <item itemvalue="JUnit.Exercise1Test.localDateWith" />
+      <item itemvalue="JUnit.Exercise1Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Exercise1Test" />
+        <item itemvalue="JUnit.Exercise1Test.localDateWith" />
         <item itemvalue="JUnit.Exercise1Test.iterateByForEach" />
         <item itemvalue="JUnit.Exercise8Test" />
         <item itemvalue="JUnit.Exercise7Test" />
-        <item itemvalue="JUnit.Exercise6Test" />
-        <item itemvalue="JUnit.Exercise5Test" />
       </list>
     </recent_temporary>
   </component>
@@ -397,7 +405,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537828522405</updated>
-      <workItem from="1537828525748" duration="1959000" />
+      <workItem from="1537828525748" duration="2644000" />
     </task>
     <task id="LOCAL-00001" summary="Added maven dependencies and completed streams module exercise 1">
       <created>1537828862274</created>
@@ -441,22 +449,17 @@
       <option name="project" value="LOCAL" />
       <updated>1537830599531</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Completed 1 test in collections exercise 1">
+      <created>1537830841560</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1537830841560</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Exercise1Test_sortByName - 2018.09.24 at 16h 47m 02s.xml">
-      <configuration name="Exercise1Test.sortByName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise2Test - 2018.09.24 at 16h 49m 36s.xml">
-      <configuration name="Exercise2Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise2Test_(1) - 2018.09.24 at 16h 51m 00s.xml">
-      <configuration name="Exercise2Test (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise3Test - 2018.09.24 at 16h 52m 37s.xml">
-      <configuration name="Exercise3Test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Exercise4Test - 2018.09.24 at 17h 06m 55s.xml">
       <configuration name="Exercise4Test" configurationId="JUnit" />
     </history-entry>
@@ -475,9 +478,21 @@
     <history-entry file="Exercise1Test_iterateByForEach - 2018.09.24 at 17h 10m 23s.xml">
       <configuration name="Exercise1Test.iterateByForEach" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Exercise1Test_iterateByForEach - 2018.09.24 at 17h 11m 12s.xml">
+      <configuration name="Exercise1Test.iterateByForEach" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise1Test_iterateByForEach - 2018.09.24 at 17h 13m 11s.xml">
+      <configuration name="Exercise1Test.iterateByForEach" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise1Test_localDateWith - 2018.09.24 at 17h 18m 31s.xml">
+      <configuration name="Exercise1Test.localDateWith" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise1Test - 2018.09.24 at 17h 22m 28s.xml">
+      <configuration name="Exercise1Test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1959000" />
+    <option name="totallyTimeSpent" value="2644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
@@ -526,7 +541,8 @@
     <MESSAGE value="Completed streams API exercise 2" />
     <MESSAGE value="Completed streams API exercise 3" />
     <MESSAGE value="Completed streams API exercise 4-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed streams API exercise 4-8" />
+    <MESSAGE value="Completed 1 test in collections exercise 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed 1 test in collections exercise 1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -546,7 +562,7 @@
     <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise2Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1275">
-          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
         </state>
       </provider>
     </entry>
@@ -560,35 +576,35 @@
     <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise3Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise4Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise5Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
-          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise6Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise7Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
@@ -604,11 +620,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
+        <state relative-caret-position="-136">
           <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="138" column="36" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
         </state>
       </provider>
     </entry>
