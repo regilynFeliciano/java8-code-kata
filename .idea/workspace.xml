@@ -203,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537829244504" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537829369177" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -219,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Exercise1Test.sortByName">
+  <component name="RunManager" selected="JUnit.Exercise2Test">
     <configuration name="Exercise1Test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="collection-interfaces" />
       <extension name="coverage">
@@ -280,14 +280,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="collection-interfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="collection.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="collection.interfaces.Exercise2Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JUnit.Exercise1Test" />
       <item itemvalue="JUnit.Exercise1Test (1)" />
       <item itemvalue="JUnit.Exercise1Test.whoHaveNoEInYourName" />
       <item itemvalue="JUnit.Exercise1Test.sortByName" />
+      <item itemvalue="JUnit.Exercise2Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Exercise2Test" />
         <item itemvalue="JUnit.Exercise1Test.sortByName" />
         <item itemvalue="JUnit.Exercise1Test.whoHaveNoEInYourName" />
         <item itemvalue="JUnit.Exercise1Test (1)" />

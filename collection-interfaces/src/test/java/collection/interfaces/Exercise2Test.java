@@ -29,7 +29,7 @@ public class Exercise2Test {
         /**
          * Try to get from key "Alice" using {@link Map#getOrDefault}. If the key doesn't exist, use 30 as default.
          */
-        Integer defaultVal = null;
+        Integer defaultVal = map.getOrDefault("Alice", 30);
 
         assertThat(defaultVal, is(30));
     }
@@ -41,8 +41,9 @@ public class Exercise2Test {
         /**
          * Try to put 2 entry with key as "Alice" value as 32, key as "Joe" and value as 32 using {@link Map#putIfAbsent}.
          */
-        // map.
-        // map.
+        map.putIfAbsent("Alice", 32);
+        map.putIfAbsent("Alice", 32);
+        map.putIfAbsent("Joe", 32);
 
         assertThat(map.get("Alice"), is(32));
         assertThat(map.get("Joe"), is(22));
@@ -56,8 +57,9 @@ public class Exercise2Test {
          * Merge 2 entry to {@link map} with key="Alice" value=32, key="Joe" value=32 using {@link Map#merge}.
          * If the value already exist for the key, remap with sum value.
          */
-        BiFunction<Object, Object, Integer> remappingFunction = null;
-        // map.
+        BiFunction<Integer, Integer, Integer> remappingFunction = (n1,n2)->n1+n2;
+        map.merge("Alice", 32, remappingFunction);
+        map.merge("Joe", 32, remappingFunction);
         // map.
 
         assertThat(map.get("Alice"), is(32));
@@ -71,9 +73,10 @@ public class Exercise2Test {
         /**
          * Try to increment the value for keys "Joe", "Steven" and "Alice" using {@link Map#computeIfPresent}.
          */
-        BiFunction<Object, Object, Integer> remappingFunction = null;
-        // map.
-        // map.
+        BiFunction<String, Integer, Integer> remappingFunction = (key,val)->++val;
+        map.computeIfPresent("Joe",remappingFunction);
+        map.computeIfPresent("Steven",remappingFunction);
+        map.computeIfPresent("Alice",remappingFunction);
         // map.
 
         assertThat(map.get("Joe"), is(23));
