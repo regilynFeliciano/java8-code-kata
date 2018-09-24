@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae44a47b-3532-4151-8fc2-d631e463bd5c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/collection-interfaces/target/" />
@@ -25,26 +26,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="10" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="10" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="93" />
-          <entry key="txt" value="125" />
+          <entry key="java" value="105" />
+          <entry key="txt" value="128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="93" />
-          <entry key="PLAIN_TEXT" value="125" />
+          <entry key="JAVA" value="105" />
+          <entry key="PLAIN_TEXT" value="128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -64,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="186">
+              <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,20 +104,50 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise4Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="952">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise5Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="74" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="1343">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise6Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise7Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="66" column="45" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,10 +162,15 @@
       <list>
         <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise1Test.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java" />
         <option value="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise2Test.java" />
         <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise2Test.java" />
         <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise3Test.java" />
+        <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise4Test.java" />
+        <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise5Test.java" />
+        <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise6Test.java" />
+        <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise7Test.java" />
+        <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java" />
+        <option value="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java" />
       </list>
     </option>
   </component>
@@ -245,7 +281,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537830568511" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537830784523" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -261,17 +297,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Exercise8Test">
-    <configuration name="Exercise4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="stream-api" />
+  <component name="RunManager" selected="JUnit.Exercise1Test.iterateByForEach">
+    <configuration name="Exercise1Test.iterateByForEach" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="collection-interfaces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.api.*" />
+          <option name="PATTERN" value="collection.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="stream.api" />
-      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise4Test" />
+      <option name="PACKAGE_NAME" value="collection.interfaces" />
+      <option name="MAIN_CLASS_NAME" value="collection.interfaces.Exercise1Test" />
+      <option name="METHOD_NAME" value="iterateByForEach" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -333,19 +371,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Exercise4Test" />
       <item itemvalue="JUnit.Exercise5Test" />
       <item itemvalue="JUnit.Exercise6Test" />
       <item itemvalue="JUnit.Exercise7Test" />
       <item itemvalue="JUnit.Exercise8Test" />
+      <item itemvalue="JUnit.Exercise1Test.iterateByForEach" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Exercise1Test.iterateByForEach" />
         <item itemvalue="JUnit.Exercise8Test" />
         <item itemvalue="JUnit.Exercise7Test" />
         <item itemvalue="JUnit.Exercise6Test" />
         <item itemvalue="JUnit.Exercise5Test" />
-        <item itemvalue="JUnit.Exercise4Test" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +397,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537828522405</updated>
-      <workItem from="1537828525748" duration="1680000" />
+      <workItem from="1537828525748" duration="1959000" />
     </task>
     <task id="LOCAL-00001" summary="Added maven dependencies and completed streams module exercise 1">
       <created>1537828862274</created>
@@ -396,25 +434,17 @@
       <option name="project" value="LOCAL" />
       <updated>1537829603161</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Completed streams API exercise 4-8">
+      <created>1537830599531</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1537830599531</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Exercise1Test - 2018.09.24 at 16h 38m 58s.xml">
-      <configuration name="Exercise1Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise1Test - 2018.09.24 at 16h 39m 54s.xml">
-      <configuration name="Exercise1Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise1Test_(1) - 2018.09.24 at 16h 42m 18s.xml">
-      <configuration name="Exercise1Test (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise1Test_whoHaveNoEInYourName - 2018.09.24 at 16h 43m 20s.xml">
-      <configuration name="Exercise1Test.whoHaveNoEInYourName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise1Test_sortByName - 2018.09.24 at 16h 46m 32s.xml">
-      <configuration name="Exercise1Test.sortByName" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Exercise1Test_sortByName - 2018.09.24 at 16h 47m 02s.xml">
       <configuration name="Exercise1Test.sortByName" configurationId="JUnit" />
     </history-entry>
@@ -427,9 +457,27 @@
     <history-entry file="Exercise3Test - 2018.09.24 at 16h 52m 37s.xml">
       <configuration name="Exercise3Test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Exercise4Test - 2018.09.24 at 17h 06m 55s.xml">
+      <configuration name="Exercise4Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise5Test - 2018.09.24 at 17h 07m 20s.xml">
+      <configuration name="Exercise5Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise6Test - 2018.09.24 at 17h 07m 36s.xml">
+      <configuration name="Exercise6Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise7Test - 2018.09.24 at 17h 07m 51s.xml">
+      <configuration name="Exercise7Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise8Test - 2018.09.24 at 17h 09m 35s.xml">
+      <configuration name="Exercise8Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise1Test_iterateByForEach - 2018.09.24 at 17h 10m 23s.xml">
+      <configuration name="Exercise1Test.iterateByForEach" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1680000" />
+    <option name="totallyTimeSpent" value="1959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
@@ -440,7 +488,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32890365" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -449,7 +497,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32890365" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32890365" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -477,7 +525,8 @@
     <MESSAGE value="Completed collection interfaces exercise 2" />
     <MESSAGE value="Completed streams API exercise 2" />
     <MESSAGE value="Completed streams API exercise 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed streams API exercise 3" />
+    <MESSAGE value="Completed streams API exercise 4-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed streams API exercise 4-8" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -491,16 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -527,8 +566,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise4Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="952">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise5Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise6Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise7Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="66" column="45" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
