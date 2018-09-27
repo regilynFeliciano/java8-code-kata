@@ -35,11 +35,8 @@ public class Exercise8Test extends ClassicOnlineStore {
                 .map(Item::getName)
                 .collect(Collectors.toList());
         Set<String> itemSetNotOnSale = customerStream.map(Customer::getWantToBuy)
-
                 .flatMap(List::stream)
-                .filter(item -> {
-                    return !itemListOnSale.contains(item.getName());
-                })
+                .filter(item -> !itemListOnSale.contains(item.getName()))
                 .map(Item::getName)
                 .collect(Collectors.toSet());
 
@@ -78,35 +75,6 @@ public class Exercise8Test extends ClassicOnlineStore {
                     .mapToInt(Item::getPrice)
                     .sum();
         };
-
-//        Predicate<Customer> havingEnoughMoneySolution = c ->
-//                c.getBudget() >= c.getWantToBuy()
-//                        .stream()
-//                        .mapToInt(wanted -> onSale.stream()
-//                                .filter(shopItem ->
-//                                        shopItem.getName().equals(
-//                                                wanted.getName()))
-//                                .sorted((o1, o2) -> o1.getPrice() - o2.getPrice())
-//                                .findFirst()
-//                                .map(Item::getPrice).orElse(0))
-//                        .sum();
-
-//        List<Item> peteOnSale = shopStream.map(Shop::getItemList)
-//                .flatMap(List::stream)
-//                .sorted(Comparator.comparing(Item::getName)
-//                        .thenComparing(Item::getPrice))
-//                .collect(Collectors.groupingBy(Item::getName))
-//                .entrySet()
-//                .stream()
-//                .map(entry -> entry.getValue().get(0))
-//                .collect(Collectors.toList());
-//        Predicate<Customer> peteHavingMoney = customer -> onSale.stream()
-//                .filter(item ->
-//                        customer.getWantToBuy().stream()
-//                                .map(Item::getName)
-//                                .anyMatch(item.getName()::equals))
-//                .mapToLong(Item::getPrice).sum() <= customer.getBudget();
-
 
         List<String> customerNameList = customerStream.filter(havingEnoughMoney)
                 .map(Customer::getName)
