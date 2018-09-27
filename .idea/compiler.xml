@@ -12,12 +12,12 @@
         <module name="stream-api" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="collection-interfaces" target="1.8" />
-      <module name="common-test-tool" target="1.8" />
-      <module name="date-and-time-api" target="1.8" />
-      <module name="java8-code-kata" target="1.8" />
-      <module name="stream-api" target="1.8" />
+    <bytecodeTargetLevel target="10">
+      <module name="collection-interfaces" target="10" />
+      <module name="common-test-tool" target="10" />
+      <module name="date-and-time-api" target="10" />
+      <module name="java8-code-kata" target="10" />
+      <module name="stream-api" target="10" />
     </bytecodeTargetLevel>
   </component>
 </project>

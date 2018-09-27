@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae44a47b-3532-4151-8fc2-d631e463bd5c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise2Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise3Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise4Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise9Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise9Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise5Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/collection-interfaces/target/" />
@@ -24,10 +24,11 @@
     <session id="-122228038">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -44,14 +45,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4463" />
-          <entry key="txt" value="196" />
+          <entry key="java" value="4652" />
+          <entry key="txt" value="216" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4463" />
-          <entry key="PLAIN_TEXT" value="196" />
+          <entry key="JAVA" value="4652" />
+          <entry key="PLAIN_TEXT" value="216" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -89,11 +90,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise5Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="69" selection-start-line="69" selection-end-line="69" />
+            <state relative-caret-position="268">
+              <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,17 +105,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-187">
-              <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+            <state relative-caret-position="527">
+              <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise9Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-799">
-              <caret line="73" column="64" lean-forward="true" selection-start-line="73" selection-start-column="64" selection-end-line="73" selection-end-column="64" />
+            <state relative-caret-position="884">
+              <caret line="73" column="64" selection-start-line="73" selection-start-column="64" selection-end-line="73" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -128,7 +132,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise6Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
+            <state relative-caret-position="476">
               <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
@@ -137,8 +141,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-457">
-              <caret line="36" column="81" lean-forward="true" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="81" />
+            <state relative-caret-position="323">
+              <caret line="36" column="81" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="81" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -175,6 +179,7 @@
         <option value="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise4Test.java" />
         <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise9Test.java" />
         <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java" />
+        <option value="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise5Test.java" />
       </list>
     </option>
   </component>
@@ -198,7 +203,6 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,15 +319,20 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538072872308" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538080261750" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../EMCModernization" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -337,8 +346,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Exercise9Test.bitList2BitString">
-    <configuration name="Exercise4Test.sameInstantAs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Exercise5Test.date2LocalDate">
+    <configuration name="Exercise5Test.date2LocalDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="date-and-time-api" />
       <extension name="coverage">
         <pattern>
@@ -347,14 +356,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="date.and.time.api" />
-      <option name="MAIN_CLASS_NAME" value="date.and.time.api.Exercise4Test" />
-      <option name="METHOD_NAME" value="sameInstantAs" />
+      <option name="MAIN_CLASS_NAME" value="date.and.time.api.Exercise5Test" />
+      <option name="METHOD_NAME" value="date2LocalDate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise4Test.sameLocalAs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise5Test.localDate2date" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="date-and-time-api" />
       <extension name="coverage">
         <pattern>
@@ -363,8 +372,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="date.and.time.api" />
-      <option name="MAIN_CLASS_NAME" value="date.and.time.api.Exercise4Test" />
-      <option name="METHOD_NAME" value="sameLocalAs" />
+      <option name="MAIN_CLASS_NAME" value="date.and.time.api.Exercise5Test" />
+      <option name="METHOD_NAME" value="localDate2date" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise5Test.localDateTime2Timestamp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="date-and-time-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="date.and.time.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="date.and.time.api" />
+      <option name="MAIN_CLASS_NAME" value="date.and.time.api.Exercise5Test" />
+      <option name="METHOD_NAME" value="localDateTime2Timestamp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise5Test.timestamp2LocalDateTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="date-and-time-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="date.and.time.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="date.and.time.api" />
+      <option name="MAIN_CLASS_NAME" value="date.and.time.api.Exercise5Test" />
+      <option name="METHOD_NAME" value="timestamp2LocalDateTime" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -386,52 +427,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise9Test.mapKeyedByItems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="stream-api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stream.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="stream.api" />
-      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise9Test" />
-      <option name="METHOD_NAME" value="mapKeyedByItems" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise9Test.simplestStringJoin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="stream-api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stream.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="stream.api" />
-      <option name="MAIN_CLASS_NAME" value="stream.api.Exercise9Test" />
-      <option name="METHOD_NAME" value="simplestStringJoin" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.Exercise4Test.sameInstantAs" />
-      <item itemvalue="JUnit.Exercise4Test.sameLocalAs" />
-      <item itemvalue="JUnit.Exercise9Test.simplestStringJoin" />
-      <item itemvalue="JUnit.Exercise9Test.mapKeyedByItems" />
       <item itemvalue="JUnit.Exercise9Test.bitList2BitString" />
+      <item itemvalue="JUnit.Exercise5Test.localDateTime2Timestamp" />
+      <item itemvalue="JUnit.Exercise5Test.localDate2date" />
+      <item itemvalue="JUnit.Exercise5Test.timestamp2LocalDateTime" />
+      <item itemvalue="JUnit.Exercise5Test.date2LocalDate" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Exercise5Test.date2LocalDate" />
+        <item itemvalue="JUnit.Exercise5Test.timestamp2LocalDateTime" />
+        <item itemvalue="JUnit.Exercise5Test.localDate2date" />
+        <item itemvalue="JUnit.Exercise5Test.localDateTime2Timestamp" />
         <item itemvalue="JUnit.Exercise9Test.bitList2BitString" />
-        <item itemvalue="JUnit.Exercise9Test.mapKeyedByItems" />
-        <item itemvalue="JUnit.Exercise9Test.simplestStringJoin" />
-        <item itemvalue="JUnit.Exercise4Test.sameLocalAs" />
-        <item itemvalue="JUnit.Exercise4Test.sameInstantAs" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +455,8 @@
       <option name="presentableId" value="Default" />
       <updated>1537828522405</updated>
       <workItem from="1537828525748" duration="8297000" />
-      <workItem from="1538024331421" duration="16138000" />
+      <workItem from="1538024331421" duration="19021000" />
+      <workItem from="1538079870697" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="Added maven dependencies and completed streams module exercise 1">
       <created>1537828862274</created>
@@ -504,22 +514,17 @@
       <option name="project" value="LOCAL" />
       <updated>1537831386329</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Completed exercise 9">
+      <created>1538073032296</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1538073032296</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Exercise9Test_simplestStringJoin - 2018.09.27 at 10h 43m 57s.xml">
-      <configuration name="Exercise9Test.simplestStringJoin" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise9Test_mapKeyedByItems - 2018.09.27 at 10h 52m 25s.xml">
-      <configuration name="Exercise9Test.mapKeyedByItems" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise9Test_mapKeyedByItems - 2018.09.27 at 10h 53m 25s.xml">
-      <configuration name="Exercise9Test.mapKeyedByItems" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercise9Test_mapKeyedByItems - 2018.09.27 at 11h 08m 41s.xml">
-      <configuration name="Exercise9Test.mapKeyedByItems" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Exercise9Test_mapKeyedByItems - 2018.09.27 at 11h 14m 37s.xml">
       <configuration name="Exercise9Test.mapKeyedByItems" configurationId="JUnit" />
     </history-entry>
@@ -538,15 +543,26 @@
     <history-entry file="Exercise9Test_bitList2BitString - 2018.09.27 at 12h 24m 25s.xml">
       <configuration name="Exercise9Test.bitList2BitString" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Exercise5Test_localDateTime2Timestamp - 2018.09.27 at 14h 08m 44s.xml">
+      <configuration name="Exercise5Test.localDateTime2Timestamp" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise5Test_localDate2date - 2018.09.27 at 14h 09m 15s.xml">
+      <configuration name="Exercise5Test.localDate2date" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise5Test_timestamp2LocalDateTime - 2018.09.27 at 14h 14m 56s.xml">
+      <configuration name="Exercise5Test.timestamp2LocalDateTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise5Test_date2LocalDate - 2018.09.27 at 14h 15m 54s.xml">
+      <configuration name="Exercise5Test.date2LocalDate" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24435000" />
+    <option name="totallyTimeSpent" value="27370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -555,7 +571,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32890365" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -564,7 +580,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32890365" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32890365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -591,7 +607,8 @@
     <MESSAGE value="Completed streams API exercise 4-8" />
     <MESSAGE value="Completed 1 test in collections exercise 1" />
     <MESSAGE value="Completed datetime api exercise 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed datetime api exercise 1" />
+    <MESSAGE value="Completed exercise 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed exercise 9" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -646,6 +663,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise7Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise2Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1547">
@@ -667,6 +691,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise9Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="73" column="64" selection-start-line="73" selection-start-column="64" selection-end-line="73" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise5Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
@@ -674,56 +712,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise5Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise7Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise6Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
+        <state relative-caret-position="476">
           <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise8Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-457">
-          <caret line="36" column="81" lean-forward="true" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="81" />
+        <state relative-caret-position="323">
+          <caret line="36" column="81" selection-start-line="36" selection-start-column="81" selection-end-line="36" selection-end-column="81" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise9Test.java">
+    <entry file="file://$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise5Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-799">
-          <caret line="73" column="64" lean-forward="true" selection-start-line="73" selection-start-column="64" selection-end-line="73" selection-end-column="64" />
+        <state relative-caret-position="268">
+          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>collection-interfaces</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.sun.istack:istack-commons-runtime:3.0.5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
